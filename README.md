@@ -9,7 +9,14 @@
 **Microsoft Applied Skills: Administer Active Directory Domain Services**  
 Microsoft | September 2026
 
-[🔗 Verify Credential](https://learn.microsoft.com/api/credentials/share/en-us/SudharsanK-2688/53262816E4302B2?sharingId=9ED89941204DCD91)
+[🔗 Verify Credential](https://learn.microsoft.com/api/credentials/share/en-us/SudharsanK-2688/53262816E4302B2?sharingId=9ED89941204DCD91) 
+
+## 🏆 IBM SkillsBuild
+
+**Information Technology Fundamentals**  
+IBM SkillsBuild | September 2026
+
+[🔗 Verify Credential](https://www.credly.com/badges/86b0e3bd-99be-4b8b-8cea-c5d93fec212f)
 
 ---
 
