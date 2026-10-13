@@ -18,6 +18,11 @@ IBM SkillsBuild | September 2026
 
 [🔗 Verify Credential](https://www.credly.com/badges/86b0e3bd-99be-4b8b-8cea-c5d93fec212f)
 
+### Hardware Components and Troubleshooting
+IBM SkillsBuild | October 2026
+
+[🔗 Verify Credential](https://www.credly.com/badges/249f5044-96f2-4fe3-822f-b0377408623e)
+
 ---
 
 ## 💻 Projects
